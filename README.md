@@ -8,6 +8,10 @@ This is a python trading Algorithm using the Quantopian codebase (https://www.qu
 
 Quantopian utilizes the Zipline framework (https://github.com/quantopian/zipline).
 
+###### Setup:
+
+algo.py can be used directly on quantopian.com or through the Zipline API (http://www.zipline.io/appendix.html). If using zipline, proper data streams must be set up to get stock and backtesting data. Also some code moditifcation might need to be adopted to be used on Zipline. Also automatic deployment to live broker is not supported through zipline.
+
 ###### Summary:
 
 The algorithm try’s to estimate the existence of a daily VPR (VRP is a measure of excess volatility in the market).
