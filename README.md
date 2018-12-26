@@ -14,7 +14,7 @@ algo.py can be used directly on quantopian.com or through the Zipline API (http:
 
 ###### Summary:
 
-The algorithm try’s to estimate the existence of a daily VPR (VRP is a measure of excess volatility in the market).
+The algorithm try’s to estimate the existence of a daily VRP (VRP is a measure of excess volatility in the market).
 * Excess VRP is usually a sign to go short volatility or "LONG" the market (buy stocks)
 * Negative VRP is usually a sign to go long volatility or "SHORT" the market (sell stocks / buy bonds)
 
