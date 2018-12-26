@@ -1,6 +1,6 @@
 ---
 
-SPY-VIX Quantopian Trading Algortim
+SPY-VIX Quantopian Trading Algorithm
 =========
 # Quantopian Trading Algorithm 
 
@@ -10,7 +10,7 @@ Quantopian utilizes the Zipline framework (https://github.com/quantopian/zipline
 
 ###### Setup:
 
-algo.py can be used directly on quantopian.com or through the Zipline API (http://www.zipline.io/appendix.html). If using zipline, proper data streams must be set up to get stock and backtesting data. Also some code moditifcation might need to be adopted to be used on Zipline. Also automatic deployment to live broker is not supported through zipline.
+algo.py can be used directly on quantopian.com or through the Zipline API (http://www.zipline.io/appendix.html). If using zipline, proper data streams must be set up to get stock and backtesting data. Also some code modification might need to be adopted to be used on Zipline. Also automatic deployment to live broker is not supported through zipline.
 
 ###### Summary:
 
@@ -53,3 +53,4 @@ degrees of risk. Therefore, it should not be assumed that future performance of 
 or investment strategy  will be profitable or equal the corresponding indicated performance level(s). 
 Moreover, you should not assume that any of the above content serves as the receipt of, or as a substitute for, personalized investment advice. Historical performance results for investment indices and/or categories have been provided for general
 comparison purposes only. * </div>
+
